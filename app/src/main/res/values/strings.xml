@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="sign_in">Sign in</string>
+    <string name="passward">Passward</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="forget_passward">Forget Passward</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="sucessful_login">login sucessfully </string>
+    <string name="failer_login">login failed </string>
+</resources>
